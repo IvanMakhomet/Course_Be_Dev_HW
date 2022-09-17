@@ -42,7 +42,7 @@ print(sentence)
 
 # Так как газа у меня нет, буду считать электричество. 
 
-name = "John Conner"
+name = "John Connor"
 adress = "г. NNN, ул. МММ 5"
 month = "май"
 rate = 1.68                         

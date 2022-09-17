@@ -12,11 +12,11 @@
 
 #Task 2.1
 data_user = {"Language": "English", 
-				"user_name": "Ivan",
+				"user_name": "John",
 				"user_id": "123654",
 				"password": "qweasd123",
-				"first_name": "Ivan",
-				"second_name": "Makhomet",
+				"first_name": "John",
+				"second_name": "Connor",
 				"user_level": "B1"}
 
 sentence = {"text": "Merry christmas and Happy new year.",
