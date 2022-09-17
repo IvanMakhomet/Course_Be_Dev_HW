@@ -14,7 +14,7 @@
 #word = "asset"
 #user_level = ...
 
-user_name = "Ivan"
+user_name = "John"
 user_id = "123654"
 user_mail = "qwerty@gmail.com"
 user_level = "B1"
@@ -42,8 +42,8 @@ print(sentence)
 
 # Так как газа у меня нет, буду считать электричество. 
 
-name = "Иван Махомет"
-adress = "г. Киев, Амосова 4"
+name = "John Conner"
+adress = "г. NNN, ул. МММ 5"
 month = "май"
 rate = 1.68                         
 consumed = 400                      
