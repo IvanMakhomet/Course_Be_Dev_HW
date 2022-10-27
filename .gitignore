@@ -1,3 +1,4 @@
+.gitignore
 settings.py
 sentences.py
 __pycache__
